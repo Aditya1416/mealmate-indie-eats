@@ -2,7 +2,8 @@
 
 **MealMate Indie Eats** is a web platform that connects students with local home cooks offering affordable, authentic homemade meals across India.
 
-![MealMate Banner](./ca502150-47ad-4310-95d5-b21553356788.png)
+![MealMate Banner](./MealmatTemplate.png)
+
 
 ---
 
